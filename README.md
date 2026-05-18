@@ -1,12 +1,12 @@
-# ChiBot  — The Unhinged Dad Joke Bot
+# FunBot  — The Unhinged Dad Joke Bot
 
-chibot is a Telegram bot with full Gen Z brainrot energy. it's giving unhinged aunty at a family function. it tells dad jokes, but like they're a trauma response. 
+FunBot is a Telegram bot with full Gen Z brainrot energy. it's giving unhinged aunty at a family function. it tells dad jokes, but like they're a trauma response. 
 
 ## Features 
 - `/joke` — get a fresh, terrible dad joke.
 - `/roast <topic>` — roast literally anything (or anyone).
-- `/vibe` — check chibot's current emotional state.
-- **Natural Conversation** — talk to chibot directly; it uses Groq's Llama 3.3 for chaotic replies.
+- `/vibe` — check FunBot's current emotional state.
+- **Natural Conversation** — talk to FunBot directly; it uses Groq's Llama 3.3 for chaotic replies.
 - **Asynchronous & Fast** — built with `python-telegram-bot` and `AsyncGroq` for zero lag.
 
 ## Tech Stack 
@@ -50,7 +50,7 @@ python3 main.py
 ```
 
 ## Disclaimer 
-chibot speaks in lowercase, uses way too many emojis, and is perpetually going through it. it will not apologize for its behavior. 
+FunBot speaks in lowercase, uses way too many emojis, and is perpetually going through it. it will not apologize for its behavior. 
 
 ## License
 MIT
